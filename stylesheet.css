@@ -1,4 +1,14 @@
 body{
     background-color: rgb(59, 19, 97);
     text-align: center;
+    color: white;
+}
+
+h1{
+    color: rgb(209, 8, 209);
+}
+
+img{
+    width: 300px;
+    height: 300px;
 }
